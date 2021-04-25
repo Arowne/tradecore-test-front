@@ -2,15 +2,9 @@
 
 Quick start options:
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/vue-now-ui-kit.git`.
-- [Download from Github](https://github.com/creativetimofficial/vue-now-ui-kit/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/vue-now-ui-kit).
+- Clone the repo: `git clone https://github.com/Arowne/tradecore-test-front.git`.
 - Run `npm install` or `yarn install`
 - Run `npm run serve` to start a local development server
-
-
-## Documentation
-The documentation for Vue Now UI Kit is hosted at our [website](https://demos.creative-tim.com/vue-now-ui-kit/documentation/).
 
 
 ## File Structure
